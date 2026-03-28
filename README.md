@@ -39,3 +39,13 @@ fun main() {
 }
 	
 <img width="487" height="468" alt="image" src="https://github.com/user-attachments/assets/98b481c7-16e6-41a1-9921-7a072ebccec0" />
+
+## EJERCICIO N 5 ERROR DE SINTAXIS utilizando el for  
+<CODE>
+fun main() {
+    for (i in 1..5) {
+        println(i)
+    }
+}
+
+<img width="288" height="487" alt="image" src="https://github.com/user-attachments/assets/24c88ac2-04f4-49b3-bfe2-9ab0e520bc6f" />
