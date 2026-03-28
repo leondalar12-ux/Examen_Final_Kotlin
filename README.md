@@ -105,6 +105,16 @@ fun main() {
 <img width="359" height="526" alt="image" src="https://github.com/user-attachments/assets/22525264-4eda-40a9-8d73-14170998d04e" />
 
 
-## EJERCICIO N 10 ERROR DE SINTAXIS
+## EJERCICIO N 10 ERROR DE SINTAXIS en nombrar a los dos numeros como var x
+<code>
+
+fun main() {
+    var x = 10
+    x = 20
+    println(x)
+}
+
+<img width="249" height="511" alt="image" src="https://github.com/user-attachments/assets/59ef9888-4a40-4794-bb49-d4307d7f435e" />
+
 
 
