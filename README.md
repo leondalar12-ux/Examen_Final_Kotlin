@@ -8,7 +8,7 @@ fun main() {
 }                   
 <img width="312" height="485" alt="image" src="https://github.com/user-attachments/assets/7a1cd1a4-8dd3-4fc9-89b5-84512a29877a" />
 
-## EJERCICIO N 2 ERROR DE SINTAXIS, fun por un, x por fx
+## EJERCICIO N 2 ERROR DE SINTAXIS, fun por un, x por fx, comparación con ==
 <CODE>
 fun main() { 
 	val x = 10 
@@ -17,3 +17,12 @@ fun main() {
 	} 
 }
 <img width="400" height="493" alt="image" src="https://github.com/user-attachments/assets/0fa1629f-4565-4976-8c08-fed8e9929d2a" />
+	
+## EJERCICIO N 3 ERROR DE SINTAXIS no indica  el nombre a ininicar
+<CODE>
+fun main() { 
+	val nombre: String ="Dalia Nancy"
+	println(nombre) 
+} 
+ 
+<img width="438" height="472" alt="image" src="https://github.com/user-attachments/assets/93b60e65-d2bd-4adc-b67c-b24de8a36f61" />
