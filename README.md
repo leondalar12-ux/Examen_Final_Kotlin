@@ -49,3 +49,20 @@ fun main() {
 }
 
 <img width="288" height="487" alt="image" src="https://github.com/user-attachments/assets/24c88ac2-04f4-49b3-bfe2-9ab0e520bc6f" />
+
+## EJERCICIO N 6 ERROR DE SINTAXIS
+<code>
+fun main() {
+    val numero = 11
+    if (numero > 10) {
+        println("Mayor")
+    } else {
+        println("Menor")
+    }
+}
+<img width="299" height="517" alt="image" src="https://github.com/user-attachments/assets/fd1c4aea-352d-4629-8495-3b165beef89b" />
+
+
+
+
+
