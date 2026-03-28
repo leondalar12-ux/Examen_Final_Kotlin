@@ -1,4 +1,4 @@
-# Examen_Final_Kotlin
+<img width="975" height="707" alt="image" src="https://github.com/user-attachments/assets/1820cc96-d7d0-4533-aad7-bc949bf16668" /># Examen_Final_Kotlin
 
 ## EJERCICIO N 1 CORRECCIÓN VAR POR VAL
 <CODE>
@@ -62,8 +62,8 @@ fun main() {
 }
 <img width="299" height="517" alt="image" src="https://github.com/user-attachments/assets/fd1c4aea-352d-4629-8495-3b165beef89b" />
 
- 
 ## EJERCICIO N 7 ERROR DE SINTAXIS  utilizando when para condicionar
+
  <code>
  fun main() {
     val nota = 18
@@ -75,9 +75,30 @@ fun main() {
 }
 <img width="478" height="483" alt="image" src="https://github.com/user-attachments/assets/59a10cf1-d6fd-41e6-8572-5c42d6462ee6" />
 
-## EJERCICIO N 8 ERROR DE SINTAXIS
+## EJERCICIO N 8 ERROR DE SINTAXIS que muestre hola  llamando con main
+
+<code>
+fun saludo(): String {
+    return "Hola"
+}
+
+fun main() {
+    println(saludo())
+}
+
+<img width="296" height="505" alt="image" src="https://github.com/user-attachments/assets/17c5d17f-81f7-4430-b1f8-1597ee0cfa25" />
 
 
 
+
+
+
+## EJERCICIO N 9 ERROR DE SINTAXIS
+
+
+
+
+
+## EJERCICIO N 10 ERROR DE SINTAXIS
 
 
