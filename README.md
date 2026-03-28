@@ -1,4 +1,5 @@
 # Examen_Final_Kotlin
+
 ## EJERCICIO N 1 CORRECCIÓN VAR POR VAL
 <CODE>
 fun main() { 
@@ -26,3 +27,15 @@ fun main() {
 } 
  
 <img width="438" height="472" alt="image" src="https://github.com/user-attachments/assets/93b60e65-d2bd-4adc-b67c-b24de8a36f61" />
+
+## EJERCICIO N 4 ERROR DE SINTAXIS con el When 
+<CODE>
+fun main() {
+    val nota = 13
+    when {
+        nota >= 11 -> println("Aprobado")
+        else -> println("Desaprobado")
+    }
+}
+	
+<img width="487" height="468" alt="image" src="https://github.com/user-attachments/assets/98b481c7-16e6-41a1-9921-7a072ebccec0" />
