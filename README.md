@@ -50,7 +50,7 @@ fun main() {
 
 <img width="288" height="487" alt="image" src="https://github.com/user-attachments/assets/24c88ac2-04f4-49b3-bfe2-9ab0e520bc6f" />
 
-## EJERCICIO N 6 ERROR DE SINTAXIS
+## EJERCICIO N 6 ERROR DE SINTAXIS de ambas formas estan bien
 <code>
 fun main() {
     val numero = 11
@@ -61,6 +61,21 @@ fun main() {
     }
 }
 <img width="299" height="517" alt="image" src="https://github.com/user-attachments/assets/fd1c4aea-352d-4629-8495-3b165beef89b" />
+
+ 
+## EJERCICIO N 7 ERROR DE SINTAXIS  utilizando when para condicionar
+ <code>
+ fun main() {
+    val nota = 18
+    when {
+        nota >= 18 -> println("Excelente")
+        nota >= 11 -> println("Aprobado")
+        else -> println("Desaprobado")
+    }
+}
+<img width="478" height="483" alt="image" src="https://github.com/user-attachments/assets/59a10cf1-d6fd-41e6-8572-5c42d6462ee6" />
+
+## EJERCICIO N 8 ERROR DE SINTAXIS
 
 
 
