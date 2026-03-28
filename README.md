@@ -1,4 +1,4 @@
-<img width="975" height="707" alt="image" src="https://github.com/user-attachments/assets/1820cc96-d7d0-4533-aad7-bc949bf16668" /># Examen_Final_Kotlin
+
 
 ## EJERCICIO N 1 CORRECCIÓN VAR POR VAL
 <CODE>
@@ -91,12 +91,18 @@ fun main() {
 
 
 
+## EJERCICIO N 9 ERROR DE SINTAXIS error al nombrar
 
+<code>
+fun mostrar(nombre: String) {
+    println(nombre)
+}
 
-## EJERCICIO N 9 ERROR DE SINTAXIS
+fun main() {
+    mostrar("Dalia")
+}
 
-
-
+<img width="359" height="526" alt="image" src="https://github.com/user-attachments/assets/22525264-4eda-40a9-8d73-14170998d04e" />
 
 
 ## EJERCICIO N 10 ERROR DE SINTAXIS
